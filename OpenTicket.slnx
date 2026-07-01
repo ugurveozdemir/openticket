@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OpenTicket.Api/OpenTicket.Api.csproj" />
+    <Project Path="src/OpenTicket.Domain/OpenTicket.Domain.csproj" />
+    <Project Path="src/OpenTicket.Infrastructure/OpenTicket.Infrastructure.csproj" />
+    <Project Path="src/OpenTicket.Worker/OpenTicket.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OpenTicket.Tests/OpenTicket.Tests.csproj" />
+  </Folder>
+</Solution>
